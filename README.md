@@ -22,3 +22,5 @@ Topics:
 - Posterior PDF Calculation
 
 - Maximum Likelihood Estimators
+
+- Calculating and Using Odds Ratios

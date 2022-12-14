@@ -16,3 +16,9 @@ Topics:
 - Maximum Likelihood Estimators (```max_likelihood_estimator.ipynb```)
     - Estimator of the true mean of a dataset
     - Evolution of the estimator as new measurements are added
+    
+- Calculating and Using Odds Ratios
+    - Odds Ratio definition
+    - Calculating Odds Ratios for three models using subsets of a dataset (simulating taking data over time)
+    - Estimating the most likely values of model parameters given a subset of data
+    - Updating the most likely model and the model parameters as more data is added
