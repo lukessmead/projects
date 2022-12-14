@@ -3,7 +3,7 @@
 
 Here are a collection of personal projects I am working on.
 
-#### Project Euler:
+### Project Euler:
 
 [Project Euler Webpage](https://https://projecteuler.net/)
 
