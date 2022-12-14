@@ -10,6 +10,9 @@ Topics:
         - Calculating a posterior based on a prior and data
         - Updating that posterior based on additional data
         
+- Posterior PDF Calculation (```posterior_pdf_calculation.ipynb```)
+    - Complex example of posterior PDF calculation
+
 - Maximum Likelihood Estimators (```max_likelihood_estimator.ipynb```)
     - Estimator of the true mean of a dataset
     - Evolution of the estimator as new measurements are added

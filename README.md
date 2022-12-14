@@ -18,3 +18,7 @@ A collection of notes, modified problem set solutions from a fourth year module,
 Topics:
 
 - Bayes Theorem
+
+- Posterior PDF Calculation
+
+- Maximum Likelihood Estimators
