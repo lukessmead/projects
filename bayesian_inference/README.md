@@ -5,3 +5,8 @@ A collection of notes, modified problem set solutions from a fourth year module,
 Topics:
 
 - Bayes Theorem (```bayes_theorem.ipynb```)
+    - Bayes Theorem definition
+    - Simple example of Bayes Theorem in action
+        - Calculating a posterior based on a prior and data
+        - Updating that posterior based on additional data
+
