@@ -22,3 +22,10 @@ Calculating and Using Odds Ratios
 - Calculating Odds Ratios for three models using subsets of a dataset (simulating taking data over time)
 - Estimating the most likely values of model parameters given a subset of data
 - Updating the most likely model and the model parameters as more data is added
+
+Markov Chain Monte Carlo
+- Notes on Markov Chains
+- Metropolis-Hastings Algorithm
+- Burn in procedure
+- Step size variation to meet target jump sucess rate
+- Comparing 1D posteriors calcualted analytically and generated using MCMC
