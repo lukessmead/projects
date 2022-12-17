@@ -12,3 +12,4 @@ Currently solved problems: 0004 / 0820
 2. Fibonacci Sequence: 4,613,732
 3. Prime Factors: 6,857
 4. Palindromic Numbers: 906,609
+5. Lowest Common Multiple: 232,792,560
