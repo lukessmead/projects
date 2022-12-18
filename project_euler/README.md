@@ -13,3 +13,4 @@ Currently solved problems: 0004 / 0820
 3. Prime Factors: 6,857
 4. Palindromic Numbers: 906,609
 5. Lowest Common Multiple: 232,792,560
+6. Sum Square Difference: 25,164,150
