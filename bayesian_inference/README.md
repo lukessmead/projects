@@ -29,3 +29,4 @@ Markov Chain Monte Carlo
 - Burn in procedure
 - Step size variation to meet target jump sucess rate
 - Comparing 1D posteriors calcualted analytically and generated using MCMC
+- Comparing 2D posteriors calcualted analytically and generated using MCMC
