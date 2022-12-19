@@ -14,3 +14,4 @@ Currently solved problems: 0004 / 0820
 4. Palindromic Numbers: 906,609
 5. Lowest Common Multiple: 232,792,560
 6. Sum Square Difference: 25,164,150
+7. Nth Prime Number: 104,743
