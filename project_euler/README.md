@@ -16,3 +16,4 @@ Currently solved problems: 0004 / 0820
 6. Sum Square Difference: 25,164,150
 7. Nth Prime Number: 104,743
 8. Largest Product in a Series: 23,514,624,000
+9. Special Pythagorean Triplet: 31,875,000.
