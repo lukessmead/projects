@@ -4,7 +4,7 @@
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-Currently solved problems: 0009 / 0820
+Currently solved problems: 0011 / 0820
 
 ### Topics and Solutions:
 
@@ -18,3 +18,4 @@ Currently solved problems: 0009 / 0820
 8. Largest Product in a Series: 23,514,624,000
 9. Special Pythagorean Triplet: 31,875,000
 10. Summation of Primes: 142,913,828,922
+11. Largest Product in a Grid: 70,600,674
