@@ -4,7 +4,7 @@
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-### Currently solved problems: 0014 / 0820
+### Currently solved problems: 0015 / 0825
 
 ## Topics and Solutions:
 
@@ -22,3 +22,4 @@ Project Euler is a series of challenging mathematical/computer programming probl
 12. Highly Divisible Triangular Numbers: 76,576,500
 13. Large Sum: 5,537,376,230.
 14. Longest Collatz Sequence: 837,799.
+15. Lattice Paths: 137,846,528,820.
