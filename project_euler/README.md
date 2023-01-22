@@ -4,7 +4,7 @@
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-### Currently solved problems: 0015 / 0825
+### Currently solved problems: 0016 / 0825
 
 ## Topics and Solutions:
 
@@ -23,3 +23,4 @@ Project Euler is a series of challenging mathematical/computer programming probl
 13. Large Sum: 5,537,376,230.
 14. Longest Collatz Sequence: 837,799.
 15. Lattice Paths: 137,846,528,820.
+16. Power Digit Sum: 1,366.
