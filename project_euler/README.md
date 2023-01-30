@@ -4,7 +4,7 @@
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-### Currently solved problems: 0021 / 0826
+### Currently solved problems: 0022 / 0827
 
 ## Topics and Solutions:
 
@@ -28,4 +28,5 @@ Project Euler is a series of challenging mathematical/computer programming probl
 18. [Maximum Path Sum I](https://projecteuler.net/problem=18): 1,074.
 19. [Counting Sundays](https://projecteuler.net/problem=19): 171.
 20. [Factorial Digit Sum](https://projecteuler.net/problem=20): 648.
-20. [Amicable Numbers](https://projecteuler.net/problem=21): 31,626.
+21. [Amicable Numbers](https://projecteuler.net/problem=21): 31,626.
+22. [Names Scores](https://projecteuler.net/problem=22): 871,198,282.
