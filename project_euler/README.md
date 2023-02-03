@@ -12,7 +12,7 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 ## Topics and Solutions:
 
-| Problem Number |                                     Problem                                  | Numerical Solution | Code Location |
+|                |                                     Problem                                  |           Solution | Code          |
 | -------------: | :--------------------------------------------------------------------------- | :----------------: | :------------ |
 |    1           | [Sums of Multiples](https://projecteuler.net/problem=1)                      | 233,168            | [Problem 0001](https://github.com/lukessmead/projects/blob/main/project_euler/problem_0001.ipynb)             |
 |    2           | [Fibonacci Sequence](https://projecteuler.net/problem=2)                     | 4,613,732          | [Problem 0002](https://github.com/lukessmead/projects/blob/main/project_euler/problem_0002.ipynb)             |
