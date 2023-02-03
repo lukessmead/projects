@@ -4,7 +4,7 @@
 
 Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-### Currently solved problems: 0024 / 0827
+### Currently solved problems: 0025 / 0827
 
 ## Topics and Solutions:
 
@@ -30,5 +30,6 @@ Project Euler is a series of challenging mathematical/computer programming probl
 20. [Factorial Digit Sum](https://projecteuler.net/problem=20): 648.
 21. [Amicable Numbers](https://projecteuler.net/problem=21): 31,626.
 22. [Names Scores](https://projecteuler.net/problem=22): 871,198,282.
-23. [Non-abundant Sums](https://projecteuler.net/problem=23): 4,179,871. 2783915460.
+23. [Non-abundant Sums](https://projecteuler.net/problem=23): 4,179,871.
 24. [Lexicographic Permutations](https://projecteuler.net/problem=24): 2783915460.
+25. [1000-digit Fibonacci Number](https://projecteuler.net/problem=25): 4,782.
