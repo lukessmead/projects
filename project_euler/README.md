@@ -30,4 +30,4 @@ Project Euler is a series of challenging mathematical/computer programming probl
 20. [Factorial Digit Sum](https://projecteuler.net/problem=20): 648.
 21. [Amicable Numbers](https://projecteuler.net/problem=21): 31,626.
 22. [Names Scores](https://projecteuler.net/problem=22): 871,198,282.
-22. [Non-abundant Sums](https://projecteuler.net/problem=23): 4,179,871.
+23. [Non-abundant Sums](https://projecteuler.net/problem=23): 4,179,871.
