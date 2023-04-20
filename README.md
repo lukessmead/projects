@@ -21,3 +21,7 @@ Topics:
 - Maximum Likelihood Estimators
 - Calculating and Using Odds Ratios
 - Markov Chain Monte Carlo
+
+## Data Generation
+
+Tools to generate random datasets for use in other projects. Currently generates random gaussian distributions for the momenta of particles.
